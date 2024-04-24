@@ -15,7 +15,7 @@ global.devs = '94772108460';
 global.website = 'https://github.com/kushansewmina1234/DARK-SHAN-MD' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ee0f303f5da6d86d024e0.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'DARK-SHAN-MD' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? '│𝐔𝐌𝐀𝐑│𝐊𝐀𝐇𝐍│🦋' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? '│𝐔𝐌𝐀𝐑│𝐊𝐀𝐇𝐍│🦋' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? '•⏤⵿༄ 𝆺𝅥⃝⃪⃜❤️𝐔𝐌𝐀𝐑🦋𓆪ꪾ❦︎ 𝆺𝅥⃝🍷' : process.env.PACK_AUTHER.split(";")[0],
