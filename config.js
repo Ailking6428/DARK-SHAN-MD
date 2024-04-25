@@ -23,7 +23,7 @@ module.exports = {
   packname:  process.env.PACK_NAME.split(";")[1] === undefined ? '│𝐔𝐌𝐀𝐑│𝐊𝐀𝐇𝐍│🦋' : process.env.PACK_NAME.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION ||  'true' ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'fuck' : process.env.ANTI_BAD_WORD,
-  antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '212' : process.env.FAKE_COUNTRY_CODE,
+  antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '20' : process.env.FAKE_COUNTRY_CODE,
   readmessage:  process.env.READ_MESSAGE === undefined ? false : process.env.READ_MESSAGE,
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
   ANTI_LINK: process.env.ANTI_LINK === undefined ? false : process.env.ALWAYS_ONLINE,
