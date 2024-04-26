@@ -26,7 +26,7 @@
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : DARK SHAN MD                                                                    
+ * @project_name : │𝐔𝐌𝐀𝐑│𝐊𝐀𝐇𝐍│🦋                                                                    
  * @author : kushansewmina1234 <https://github.com/kushansewmina1234>   
  * @description : DARK SHAN MD ,A Multi-functional whatsapp bot.       
  * @version 0.0.1                                                                                             
